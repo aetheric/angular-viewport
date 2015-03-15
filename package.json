@@ -1,0 +1,27 @@
+{
+  "name": "angular-viewport",
+  "version": "1.0.0",
+  "description": "An angular directive that binds to your viewport and changes it when certain events fire.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aetheric/angular-viewport.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "viewport"
+  ],
+  "author": "Peter Cummuskey <peterc@aetheric.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aetheric/angular-viewport/issues"
+  },
+  "homepage": "https://github.com/aetheric/angular-viewport",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}

@@ -1,0 +1,7 @@
+angular-viewport
+================
+Peter Cummuskey <peterc@aetheric.co.nz>
+
+An AngularJS directive that binds to the viewport meta tag and alters its
+content when certain events fire.
+
